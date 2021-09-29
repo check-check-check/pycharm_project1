@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../DjangoBlog-master/.idea/DjangoBlog-master.iml" filepath="$PROJECT_DIR$/../DjangoBlog-master/.idea/DjangoBlog-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Study_python/.idea/Study_python.iml" filepath="$PROJECT_DIR$/../Study_python/.idea/Study_python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/teaching.iml" filepath="$PROJECT_DIR$/.idea/teaching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tensorflow_AI/.idea/tensorflow_AI.iml" filepath="$PROJECT_DIR$/../tensorflow_AI/.idea/tensorflow_AI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../web_django/.idea/web_django.iml" filepath="$PROJECT_DIR$/../web_django/.idea/web_django.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../web_project/.idea/web_project.iml" filepath="$PROJECT_DIR$/../web_project/.idea/web_project.iml" />
+    </modules>
+  </component>
+</project>

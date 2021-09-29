@@ -1,0 +1,14 @@
+threading线程参数注释：
+
+threading.active_count()¶
+Return the number of Thread objects currently alive. The returned count is equal to the length of the list returned
+by enumerate().
+
+threading遇到的各种问题：
+1.线程并行和串行执行
+
+2.多线程任务
+
+3.主线程和子线程
+
+4.线程间的通信

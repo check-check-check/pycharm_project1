@@ -1,0 +1,33 @@
+queue 模块
+queue 模块中有 Queue 类，LifoQueue、PriorityQueue 都继承了 Queue
+
+1.参数maxsize
+maxsize 是实例化 Queue 类时的一个参数，默认为 0, Queue(maxsize=0) 可以控制队列中数据的容量
+
+Queue.put()
+Queue.put(block=True, timeout=None) block 用于设置是否阻塞， timeout 用于设置阻塞时等待时长
+put_nowait() = put(block=False)
+
+阻塞:当队列满了之后，put 就会阻塞，一直等待队列不再满时向里面添加数据
+不阻塞:当队列满了之后，如果设置 put 不阻塞，或者等待时长到了之后会报错：queue.Full
+
+Queue.get()
+Queue.get(block=True, timeout=None)
+get_nowait() = get(block=False)
+
+阻塞:当队列空了之后，get 就会阻塞，一直等待队列中有数据后再获取数据
+不阻塞:当队列空了之后，如果设置 get 不阻塞，或者等待时长到了之后会报错：_queue.Empty
+
+Queue.full() & Queue.empty()
+Queue.empty()/Queue.full() 用于判断队列是否为空、满
+尽量使用 qsize 代替
+
+Queue.qsize
+Queue.qsize() 用于获取队列中大致的数据量
+注意：在多线程的情况下不可靠 因为在获取 qsize 时，其他线程可能又对队列进行操作了
+
+Queue.join()
+join 会在队列存在未完成任务时阻塞，等待队列无未完成任务，需要配合 task_done 使用
+Queue.task_done()
+执行一次 put 会让未完成任务 +1 ，但是执行 get 并不会让未完成任务 -1 ，需要使用 task_done 让未完成任务 -1 ，否则 join 就无法
+判断。队列为空时执行会报错：ValueError: task_done() called too many times

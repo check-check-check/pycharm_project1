@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ddf12533-7b52-4437-80cb-9ef87bd42338" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" module-name="tensorflow_AI" is-module-sdk="true">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+    <option name="myUseModuleSdk" value="true" />
+    <option name="myModuleName" value="tensorflow_AI" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="teaching" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YAIJljWwWbJtmiX7EfqRQEm5F0" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DjangoBlog-master" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="Study_python" is-module-sdk="true">
+        <envs>
+          <env key="PATH" value="C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;D:\jdk\bin;D:\jdk\jre\bin;D:\apache-tomcat-&#13; 9.0.30-windows-x64\apache-tomcat-9.0.30\bin\;E:\project\P4\;D:\Anaconda3\Scripts;D:\Python\Python37\Scripts\;D:\Python\Python37\;D:\JetBrains&#13; \PyCharm 2019.2.5\bin;D:\Anaconda3\Library\bin;D:\Anaconda3\;" />
+        </envs>
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="Study_python" />
+        <option name="myEnvs">
+          <map>
+            <entry key="PATH" value="C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;D:\jdk\bin;D:\jdk\jre\bin;D:\apache-tomcat-&#13; 9.0.30-windows-x64\apache-tomcat-9.0.30\bin\;E:\project\P4\;D:\Anaconda3\Scripts;D:\Python\Python37\Scripts\;D:\Python\Python37\;D:\JetBrains&#13; \PyCharm 2019.2.5\bin;D:\Anaconda3\Library\bin;D:\Anaconda3\;" />
+          </map>
+        </option>
+      </console-settings>
+    </option>
+    <option name="myShowVariablesByDefault" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="OPEN_URL_DIALOG">
+      <recent name="https://github.com/liangliangyy/DjangoBlog" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\project\python-workplace\web_project" />
+      <recent name="G:\project\python-workplace\tensorflow_AI" />
+      <recent name="G:\project\python-workplace\tensorflow_AI\Tensorflow学习" />
+      <recent name="G:\project\python-workplace\teaching\AI实验" />
+      <recent name="G:\project\python-workplace\teaching\AI实验\逻辑回归" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\project\python-workplace\web_django" />
+      <recent name="G:\project\python-workplace\tensorflow_AI" />
+      <recent name="G:\project\python-workplace\teaching\标准库模块\模块的导入使用\调用子目录下的模块" />
+      <recent name="G:\project\python-workplace\teaching\标准库模块\模块的导入使用\调用子目录下的模块\mydir1" />
+      <recent name="G:\project\python-workplace\teaching\标准库模块\模块的导入使用" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.manage">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="teaching" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="manage (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="web_django" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../web_django/web_DIY" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../web_django/web_DIY/manage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="web_django" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../web_django/web框架/web_DIY" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../web_django/web框架/web_DIY/manage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mode3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="teaching" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/标准库模块/模块的导入使用/different_catalogues" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/标准库模块/模块的导入使用/different_catalogues/mode3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mode6" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="teaching" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/标准库模块/模块的导入使用/different_catalogues/mydir2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/标准库模块/模块的导入使用/different_catalogues/mydir2/mode6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="urls (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="web_django" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../web_django/web_DIY" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../web_django/web_DIY/urls.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="web_project" type="Python.DjangoServer" factoryName="Django server">
+      <module name="web_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django server.web_project" />
+      <item itemvalue="Python.manage" />
+      <item itemvalue="Python.mode6" />
+      <item itemvalue="Python.mode3" />
+      <item itemvalue="Python.manage (1)" />
+      <item itemvalue="Python.urls (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.manage (1)" />
+        <item itemvalue="Python.urls (1)" />
+        <item itemvalue="Python.mode3" />
+        <item itemvalue="Python.mode6" />
+        <item itemvalue="Python.manage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ddf12533-7b52-4437-80cb-9ef87bd42338" name="Default Changelist" comment="" />
+      <created>1582378902116</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582378902116</updated>
+      <workItem from="1582378934108" duration="5498000" />
+      <workItem from="1582426028552" duration="21240000" />
+      <workItem from="1582507948012" duration="11044000" />
+      <workItem from="1582634958878" duration="6150000" />
+      <workItem from="1582695892409" duration="3507000" />
+      <workItem from="1582699764394" duration="7377000" />
+      <workItem from="1582707645850" duration="1052000" />
+      <workItem from="1582709108424" duration="388000" />
+      <workItem from="1582709645618" duration="3485000" />
+      <workItem from="1582803687434" duration="1556000" />
+      <workItem from="1582807625497" duration="321000" />
+      <workItem from="1582808150205" duration="1253000" />
+      <workItem from="1582809617951" duration="359000" />
+      <workItem from="1582810153112" duration="1107000" />
+      <workItem from="1582813638467" duration="510000" />
+      <workItem from="1582859232192" duration="3058000" />
+      <workItem from="1582942699389" duration="28096000" />
+      <workItem from="1583034677581" duration="10354000" />
+      <workItem from="1583052436717" duration="7752000" />
+      <workItem from="1583068463807" duration="7145000" />
+      <workItem from="1583130404445" duration="9478000" />
+      <workItem from="1583157873464" duration="1806000" />
+      <workItem from="1583241615216" duration="596000" />
+      <workItem from="1583498273658" duration="595000" />
+      <workItem from="1583553142475" duration="1767000" />
+      <workItem from="1583571489746" duration="11682000" />
+      <workItem from="1583635882185" duration="26032000" />
+      <workItem from="1583683523509" duration="3012000" />
+      <workItem from="1583713462275" duration="4481000" />
+      <workItem from="1583829343673" duration="3687000" />
+      <workItem from="1583833978918" duration="18333000" />
+      <workItem from="1583894483159" duration="1686000" />
+      <workItem from="1583927163618" duration="1452000" />
+      <workItem from="1583937895411" duration="654000" />
+      <workItem from="1584927876970" duration="9408000" />
+      <workItem from="1584947396175" duration="3541000" />
+      <workItem from="1584951688256" duration="2636000" />
+      <workItem from="1584954370228" duration="3393000" />
+      <workItem from="1584958024615" duration="1701000" />
+      <workItem from="1584959765128" duration="4385000" />
+      <workItem from="1584972055714" duration="2517000" />
+      <workItem from="1585013962425" duration="14714000" />
+      <workItem from="1585056742794" duration="2014000" />
+      <workItem from="1585138471522" duration="2799000" />
+      <workItem from="1585145363449" duration="2753000" />
+      <workItem from="1585216107498" duration="996000" />
+      <workItem from="1585230674966" duration="3367000" />
+      <workItem from="1585234219687" duration="3972000" />
+      <workItem from="1585276694491" duration="1422000" />
+      <workItem from="1585287499736" duration="7299000" />
+      <workItem from="1585294931589" duration="4327000" />
+      <workItem from="1589033478258" duration="6786000" />
+      <workItem from="1589111147036" duration="8860000" />
+      <workItem from="1589158736849" duration="332000" />
+      <workItem from="1589159126448" duration="11352000" />
+      <workItem from="1589269790490" duration="1423000" />
+      <workItem from="1589292541125" duration="2893000" />
+      <workItem from="1589330477963" duration="2653000" />
+      <workItem from="1589359640677" duration="2033000" />
+      <workItem from="1589361723109" duration="5418000" />
+      <workItem from="1589417348152" duration="4125000" />
+      <workItem from="1589510149952" duration="1261000" />
+      <workItem from="1589554644076" duration="1011000" />
+      <workItem from="1589595599657" duration="1678000" />
+      <workItem from="1589680899192" duration="3802000" />
+      <workItem from="1589763908776" duration="9836000" />
+      <workItem from="1589775714144" duration="12938000" />
+      <workItem from="1589852479202" duration="2683000" />
+      <workItem from="1589962617732" duration="7000000" />
+      <workItem from="1590076734670" duration="732000" />
+      <workItem from="1590248343912" duration="303000" />
+      <workItem from="1590249242971" duration="2533000" />
+      <workItem from="1590282814121" duration="3262000" />
+      <workItem from="1590331518740" duration="855000" />
+      <workItem from="1590577881568" duration="5457000" />
+      <workItem from="1590676323185" duration="4402000" />
+      <workItem from="1590721940773" duration="6928000" />
+      <workItem from="1590816200468" duration="3045000" />
+      <workItem from="1590847207588" duration="11361000" />
+      <workItem from="1590907780112" duration="3348000" />
+      <workItem from="1590912780307" duration="1484000" />
+      <workItem from="1590914308973" duration="2777000" />
+      <workItem from="1590940837883" duration="175000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/teaching$1.coverage" NAME="测试1 Coverage Results" MODIFIED="1582635201668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/实验" />
+    <SUITE FILE_PATH="coverage/teaching$guess.coverage" NAME="guess Coverage Results" MODIFIED="1582699596898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Study_python/第一周-源码/源码" />
+    <SUITE FILE_PATH="coverage/teaching$urls__1_.coverage" NAME="urls (1) Coverage Results" MODIFIED="1590915875566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../web_django/web_DIY" />
+    <SUITE FILE_PATH="coverage/teaching$.coverage" NAME="字典类型 Coverage Results" MODIFIED="1582462924705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/散列类型" />
+    <SUITE FILE_PATH="coverage/teaching$Test__.coverage" NAME="Test:  Coverage Results" MODIFIED="1590593582379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/teaching$guess_for_.coverage" NAME="guess for  Coverage Results" MODIFIED="1582700162666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Study_python/第一周-源码/源码" />
+  </component>
+</project>

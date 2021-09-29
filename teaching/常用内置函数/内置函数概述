@@ -1,0 +1,12 @@
+博客：https://blog.csdn.net/alice_tl/article/details/80867196
+Python内置的函数及其用法。为了方便记忆，已经有很多开发者将这些内置函数进行了如下分类：
+    数学运算(7个)
+    类型转换(24个)
+    序列操作(8个)
+    对象操作(7个)
+    反射操作(8个)
+    变量操作(2个):globals(),locals()
+    交互操作(2个):print(),input()
+    文件操作(1个)：open()
+    编译执行(4个)
+    装饰器(3个)：property(),classmethod(),staticmethod()
